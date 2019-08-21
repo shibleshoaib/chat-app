@@ -1,0 +1,4 @@
+ module.exports = {
+ secretKey: "Shibli Soaib",
+ algorithm: 'HS256', //default: HS256
+ };
